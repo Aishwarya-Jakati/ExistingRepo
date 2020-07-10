@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 667D-FD33
+
+ Directory of C:\Users\10\Desktop\aish pic hard copy\TestProject
+
+10-Jul-20  11:24 AM    <DIR>          .
+10-Jul-20  11:24 AM    <DIR>          ..
+08-Jul-20  04:57 PM                 7 .gitignore
+08-Jul-20  04:57 PM               387 .project
+08-Jul-20  04:57 PM    <DIR>          .settings
+10-Jul-20  11:24 AM                 0 Ashik.txt
+08-Jul-20  11:02 AM    <DIR>          bin
+08-Jul-20  04:49 PM    <DIR>          PullFromWindows
+10-Jul-20  11:18 AM    <DIR>          src
+               3 File(s)            394 bytes
+               6 Dir(s)  13,729,312,768 bytes free
